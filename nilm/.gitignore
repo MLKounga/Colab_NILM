@@ -1,0 +1,10 @@
+.vscode/*
+*.log
+*.tflite
+*.pb
+*.index
+variables.data*
+pruning_logs*
+*.csv
+*.npy
+__pycache__
